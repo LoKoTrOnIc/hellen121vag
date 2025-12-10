@@ -10899,16 +10899,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 323.85) (xy 195.58 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21cd7534-d9f3-4d0d-9232-fe78d8464c9b")
-	)
-	(wire
-		(pts
 			(xy 287.02 148.59) (xy 287.02 151.13)
 		)
 		(stroke
@@ -13409,7 +13399,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 321.31) (xy 195.58 323.85)
+			(xy 196.85 321.31) (xy 196.85 323.85)
 		)
 		(stroke
 			(width 0)
@@ -14420,6 +14410,16 @@
 			(type default)
 		)
 		(uuid "b4eb07ff-83eb-43ad-a476-1c97feebb870")
+	)
+	(wire
+		(pts
+			(xy 220.98 309.88) (xy 220.98 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4f3fbef-24c7-442b-bc76-890d87228415")
 	)
 	(wire
 		(pts
@@ -27764,7 +27764,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 220.98 311.15 0)
+		(at 220.98 309.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27772,7 +27772,7 @@
 		(dnp no)
 		(uuid "8e6ba1e6-56a5-49f5-b94c-c90b280227fd")
 		(property "Reference" "#PWR040"
-			(at 220.98 317.5 0)
+			(at 220.98 316.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27781,7 +27781,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 220.98 314.96 0)
+			(at 220.98 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27789,7 +27789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 311.15 0)
+			(at 220.98 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27798,7 +27798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 311.15 0)
+			(at 220.98 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27807,7 +27807,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.98 311.15 0)
+			(at 220.98 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28028,7 +28028,7 @@
 	)
 	(symbol
 		(lib_id "hellen-one-common:+12V_RAW")
-		(at 195.58 321.31 0)
+		(at 196.85 321.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28036,7 +28036,7 @@
 		(dnp no)
 		(uuid "99d75d40-b855-492b-a189-632ee02fabd6")
 		(property "Reference" "#PWR032"
-			(at 195.58 325.12 0)
+			(at 196.85 325.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28045,7 +28045,7 @@
 			)
 		)
 		(property "Value" "+12V_RAW"
-			(at 190.8683 316.8649 0)
+			(at 192.1383 316.8649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28054,7 +28054,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 321.31 0)
+			(at 196.85 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28063,7 +28063,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 321.31 0)
+			(at 196.85 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28072,7 +28072,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 195.58 321.31 0)
+			(at 196.85 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
