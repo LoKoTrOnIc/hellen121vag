@@ -429,16 +429,16 @@
 		(uuid "114e9e79-b0ae-402c-b306-19f784ed8351")
 	)
 	(junction
-		(at 187.96 74.93)
+		(at 189.23 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "544c1ebd-7c46-49ce-9a80-2dd524a83eeb")
+		(uuid "6e9952b5-23cc-4e2b-8419-692f35cc4055")
 	)
 	(junction
-		(at 176.53 80.01)
+		(at 189.23 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e702cce9-f659-428b-8e4e-1f38a5e3a190")
+		(uuid "7e3dc6d8-29f3-40c0-9f3d-06a137e1060b")
 	)
 	(no_connect
 		(at 167.64 82.55)
@@ -450,7 +450,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 80.01) (xy 176.53 80.01)
+			(xy 167.64 80.01) (xy 179.07 80.01)
 		)
 		(stroke
 			(width 0)
@@ -470,7 +470,17 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 74.93) (xy 187.96 74.93)
+			(xy 189.23 74.93) (xy 190.5 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99b30fc9-14a7-43fa-9a9f-4701bbad9ec5")
+	)
+	(wire
+		(pts
+			(xy 167.64 74.93) (xy 179.07 74.93)
 		)
 		(stroke
 			(width 0)
@@ -510,16 +520,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 80.01) (xy 179.07 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4d3b4d5-9236-4ba2-b8d6-a1a80e5b1771")
-	)
-	(wire
-		(pts
 			(xy 137.16 82.55) (xy 139.7 82.55)
 		)
 		(stroke
@@ -540,13 +540,13 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 74.93) (xy 190.5 74.93)
+			(xy 189.23 80.01) (xy 190.5 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f1541df7-aa44-4748-8a16-883475a6c059")
+		(uuid "fd2cae76-7224-453b-9d1d-d133ea3598b2")
 	)
 	(hierarchical_label "OUT1"
 		(shape output)
@@ -583,7 +583,7 @@
 	)
 	(hierarchical_label "IN1"
 		(shape input)
-		(at 179.07 80.01 0)
+		(at 190.5 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -594,16 +594,15 @@
 	)
 	(symbol
 		(lib_id "hellen-one-common:Res")
-		(at 187.96 74.93 90)
-		(mirror x)
+		(at 189.23 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "268b6c4f-62c1-4d8d-a71a-8c8126c50e8f")
-		(property "Reference" "R30"
-			(at 185.42 80.01 0)
+		(property "Reference" "R36"
+			(at 186.69 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -611,7 +610,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 187.96 80.01 0)
+			(at 189.23 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -619,7 +618,7 @@
 			)
 		)
 		(property "Footprint" "hellen-one-common:R0603"
-			(at 191.77 78.74 0)
+			(at 193.04 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -628,7 +627,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 74.93 0)
+			(at 189.23 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -637,7 +636,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 74.93 0)
+			(at 189.23 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -646,7 +645,7 @@
 			)
 		)
 		(property "LCSC" "C23162"
-			(at 187.96 74.93 0)
+			(at 189.23 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -662,41 +661,41 @@
 		)
 		(instances
 			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/d77a966f-93fc-4f94-82cb-7e8aee83804a"
-					(reference "R30")
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "R36")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 176.53 90.17 0)
+		(lib_id "hellen-one-common:Res")
+		(at 189.23 80.01 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "34938b62-16f8-4627-bafb-d187473e012d")
-		(property "Reference" "#PWR0114"
-			(at 176.53 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 176.53 93.98 0)
+		(uuid "2afb7fc4-2cf9-4596-9315-e4bc1b0d5edb")
+		(property "Reference" "R14"
+			(at 184.15 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 176.53 90.17 0)
+		(property "Value" "4.7k"
+			(at 184.15 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "hellen-one-common:R0603"
+			(at 185.42 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -705,7 +704,84 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 90.17 0)
+			(at 189.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 189.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23162"
+			(at 189.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e27b4540-9925-4e39-a5fe-3318d4955274")
+		)
+		(pin "2"
+			(uuid "2e7a1f99-3548-4ac4-8db6-83a8f3653286")
+		)
+		(instances
+			(project "hellen121vag"
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 189.23 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34938b62-16f8-4627-bafb-d187473e012d")
+		(property "Reference" "#PWR0149"
+			(at 189.23 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 189.23 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -714,7 +790,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 90.17 0)
+			(at 189.23 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -727,8 +803,8 @@
 		)
 		(instances
 			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/d77a966f-93fc-4f94-82cb-7e8aee83804a"
-					(reference "#PWR0114")
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -744,7 +820,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b644ced-d59c-42f2-b9bf-ac73e92bf618")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0148"
 			(at 137.16 91.44 0)
 			(effects
 				(font
@@ -793,8 +869,8 @@
 		)
 		(instances
 			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/d77a966f-93fc-4f94-82cb-7e8aee83804a"
-					(reference "#PWR0113")
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -802,7 +878,7 @@
 	)
 	(symbol
 		(lib_id "hellen-one-common:Res")
-		(at 176.53 80.01 90)
+		(at 189.23 80.01 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -810,8 +886,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "665d5b84-c3eb-4717-9ea2-6629cce046db")
-		(property "Reference" "R29"
-			(at 173.99 85.09 0)
+		(property "Reference" "R35"
+			(at 186.69 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -819,7 +895,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 176.53 85.09 0)
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -827,7 +903,7 @@
 			)
 		)
 		(property "Footprint" "hellen-one-common:R0603"
-			(at 180.34 83.82 0)
+			(at 193.04 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -836,7 +912,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 80.01 0)
+			(at 189.23 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -845,7 +921,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 80.01 0)
+			(at 189.23 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -854,7 +930,7 @@
 			)
 		)
 		(property "LCSC" "C23162"
-			(at 176.53 80.01 0)
+			(at 189.23 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -870,41 +946,41 @@
 		)
 		(instances
 			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/d77a966f-93fc-4f94-82cb-7e8aee83804a"
-					(reference "R29")
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "R35")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 187.96 85.09 0)
+		(lib_id "hellen-one-common:Res")
+		(at 189.23 74.93 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7432c3d3-4ac2-4ed6-9171-41441def06c9")
-		(property "Reference" "#PWR0115"
-			(at 187.96 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 187.96 88.9 0)
+		(uuid "687b3a19-6810-4841-9fea-54cb7d53079d")
+		(property "Reference" "R13"
+			(at 184.15 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 187.96 85.09 0)
+		(property "Value" "4.7k"
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "hellen-one-common:R0603"
+			(at 185.42 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -913,7 +989,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 85.09 0)
+			(at 189.23 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 189.23 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23162"
+			(at 189.23 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8a739e44-4e70-4c28-8f11-a75ab874cc8d")
+		)
+		(pin "2"
+			(uuid "48bfca21-fe70-486c-a228-bb6da19919a6")
+		)
+		(instances
+			(project "hellen121vag"
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 189.23 64.77 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7432c3d3-4ac2-4ed6-9171-41441def06c9")
+		(property "Reference" "#PWR0150"
+			(at 189.23 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 189.23 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -922,7 +1076,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 85.09 0)
+			(at 189.23 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -935,8 +1089,8 @@
 		)
 		(instances
 			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/d77a966f-93fc-4f94-82cb-7e8aee83804a"
-					(reference "#PWR0115")
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -953,7 +1107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98170f75-a989-4d24-ae3a-d0ce92934cb8")
-		(property "Reference" "U4"
+		(property "Reference" "U7"
 			(at 153.67 67.31 0)
 			(effects
 				(font
@@ -1031,8 +1185,8 @@
 		)
 		(instances
 			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/d77a966f-93fc-4f94-82cb-7e8aee83804a"
-					(reference "U4")
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73/bdc55f5a-1abb-4701-b1a5-3e8a3596401f"
+					(reference "U7")
 					(unit 1)
 				)
 			)
