@@ -9893,6 +9893,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 196.85) (xy 279.4 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03d96b44-c6aa-4034-9fdb-19164f5eefb5")
+	)
+	(wire
+		(pts
 			(xy 298.45 156.21) (xy 298.45 161.29)
 		)
 		(stroke
@@ -10794,6 +10804,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 196.85) (xy 279.4 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f0d4a90-02e6-464b-97c9-dcdb00ae845f")
+	)
+	(wire
+		(pts
 			(xy 300.99 106.68) (xy 300.99 118.11)
 		)
 		(stroke
@@ -11167,6 +11187,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 177.8) (xy 281.94 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42d08912-053d-468c-8ee5-6fa704efc20e")
+	)
+	(wire
+		(pts
 			(xy 276.86 104.14) (xy 303.53 104.14)
 		)
 		(stroke
@@ -11450,6 +11480,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 194.31) (xy 276.86 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5115bd44-1c53-45c7-a123-41ced41e51f8")
+	)
+	(wire
+		(pts
 			(xy 400.05 133.35) (xy 400.05 130.81)
 		)
 		(stroke
@@ -11547,16 +11587,6 @@
 			(type default)
 		)
 		(uuid "53d22093-446a-4ad5-acda-c71c4cf4c4dd")
-	)
-	(wire
-		(pts
-			(xy 276.86 182.88) (xy 284.48 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55ee8257-17fa-4815-b9a9-ef82afb86c8b")
 	)
 	(wire
 		(pts
@@ -12122,16 +12152,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 177.8) (xy 281.94 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "697aa9d6-2cf5-4d70-bc68-df3d60bf2757")
-	)
-	(wire
-		(pts
 			(xy 294.64 209.55) (xy 303.53 209.55)
 		)
 		(stroke
@@ -12270,16 +12290,6 @@
 			(type default)
 		)
 		(uuid "6ec6bc51-c166-4f52-b365-97ef7955cd62")
-	)
-	(wire
-		(pts
-			(xy 276.86 198.12) (xy 285.75 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f0ac825-fe40-41b3-8f00-90bc2f6bc2cb")
 	)
 	(wire
 		(pts
@@ -12651,16 +12661,6 @@
 			(color 255 153 0 1)
 		)
 		(uuid "7ec38083-3dbc-44a0-9eb0-931759e7e70f")
-	)
-	(wire
-		(pts
-			(xy 285.75 198.12) (xy 285.75 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f010dd8-c321-42f7-a998-895925d3fa53")
 	)
 	(wire
 		(pts
@@ -13524,16 +13524,6 @@
 		)
 		(uuid "a480c272-5c09-4b90-aae5-6cfcf3698769")
 	)
-	(wire
-		(pts
-			(xy 276.86 203.2) (xy 285.75 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a51e889e-ed06-407e-8f1c-6273f0d186f3")
-	)
 	(bus
 		(pts
 			(xy 179.07 194.31) (xy 179.07 199.39)
@@ -14139,16 +14129,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 180.34) (xy 284.48 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bca8dfcc-95f3-402e-8278-383bbc9b2bca")
-	)
-	(wire
-		(pts
 			(xy 252.73 143.51) (xy 241.3 143.51)
 		)
 		(stroke
@@ -14166,6 +14146,16 @@
 			(type default)
 		)
 		(uuid "bd332fc6-1898-47a6-9661-9992e304f6d0")
+	)
+	(wire
+		(pts
+			(xy 252.73 199.39) (xy 284.48 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdb39213-d9d2-492b-8285-1411aabb15db")
 	)
 	(wire
 		(pts
@@ -14423,7 +14413,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 180.34) (xy 284.48 173.99)
+			(xy 284.48 173.99) (xy 284.48 199.39)
 		)
 		(stroke
 			(width 0)
@@ -14840,6 +14830,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 194.31) (xy 276.86 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfb36480-e72b-45fc-a57c-5844aa2b728a")
+	)
+	(wire
+		(pts
 			(xy 364.49 312.42) (xy 361.95 312.42)
 		)
 		(stroke
@@ -14969,16 +14969,6 @@
 			(color 255 0 255 1)
 		)
 		(uuid "e4928223-a382-49d9-9ab0-78ec94e577e9")
-	)
-	(wire
-		(pts
-			(xy 276.86 200.66) (xy 285.75 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4eee6d6-28df-4476-b2a4-f1043f2b9cc2")
 	)
 	(wire
 		(pts
@@ -15853,16 +15843,6 @@
 		)
 		(uuid "03637a4e-0633-497f-97bf-b32ab73bb60f")
 	)
-	(label "DC2_DIS"
-		(at 276.86 203.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0962469e-86a5-4f77-90c1-a2163a0aa326")
-	)
 	(label "3_WBO_Heater"
 		(at 163.83 60.96 0)
 		(effects
@@ -16203,16 +16183,6 @@
 		)
 		(uuid "34ad85fe-2b66-47ca-b1fb-2a6f8ac674db")
 	)
-	(label "DC2_PWM"
-		(at 276.86 198.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "34b145b7-414a-4227-957b-b01c88a433c9")
-	)
 	(label "VR_MAX9924"
 		(at 372.11 171.45 0)
 		(effects
@@ -16332,16 +16302,6 @@
 			(justify right bottom)
 		)
 		(uuid "44a8345c-62d1-42d2-b9a0-cf20f84f7b6a")
-	)
-	(label "DC2_DIR"
-		(at 276.86 200.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "45cd56b0-2a8d-4d78-97b8-3bbd038fa6e1")
 	)
 	(label "MISO3"
 		(at 372.11 135.89 0)
@@ -29418,114 +29378,6 @@
 			(project "hellen121vag"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73"
 					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 259.08 175.26)
-		(size 17.78 19.05)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "4322aa76-0fc5-4b6c-b613-6521da6bcf9a")
-		(property "Sheetname" "DC Driver 1"
-			(at 269.24 187.325 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "DC_MOTOR_0.1.kicad_sch"
-			(at 259.08 188.5446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "OUT+" output
-			(at 259.08 180.34 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "3bafdbbf-d72a-481b-afdc-e867932b9dcb")
-		)
-		(pin "OUT-" output
-			(at 259.08 182.88 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "dd7035df-2898-4131-b904-20420f321920")
-		)
-		(pin "PWR" passive
-			(at 259.08 177.8 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "1913bf3b-9353-4176-9105-345788104d25")
-		)
-		(pin "PWM" input
-			(at 276.86 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "9e679fbe-58b1-4959-9baf-2ab062664948")
-		)
-		(pin "DIR" input
-			(at 276.86 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "b52edeb7-0b3b-4289-96b7-c94bbd7b5b9f")
-		)
-		(pin "DIS" input
-			(at 276.86 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "a7361fc0-adf8-4c95-af6b-89f557bbb949")
-		)
-		(pin "3V3" passive
-			(at 259.08 185.42 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "4c360c4a-3f98-49a4-b072-b612bc0d8e3c")
-		)
-		(instances
-			(project "hellen121vag"
-				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73"
-					(page "2")
 				)
 			)
 		)
