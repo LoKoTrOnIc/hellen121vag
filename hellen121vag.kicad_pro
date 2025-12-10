@@ -629,7 +629,7 @@
       "idf": "",
       "netlist": "",
       "plot": "gerber/",
-      "pos_files": "",
+      "pos_files": "gerber/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -753,6 +753,26 @@
     [
       "45c1f041-3b7c-4036-abe9-e26621c05a73",
       "Root"
+    ],
+    [
+      "37c68176-bc6d-4360-9788-c5c46985dc55",
+      "LS"
+    ],
+    [
+      "f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf",
+      "Ignition"
+    ],
+    [
+      "5bf5a5f3-cb81-43b4-ad19-7826a949969c",
+      "Injector"
+    ],
+    [
+      "bdc55f5a-1abb-4701-b1a5-3e8a3596401f",
+      "LS HOT"
+    ],
+    [
+      "6cde32b6-05f2-499d-9aff-ad44aab97055",
+      "EGT"
     ]
   ],
   "text_variables": {}
