@@ -126,3 +126,6 @@ LPS25HB,U2,Package_LGA:ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y,C87898
 MCP6002-xSN,U3,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C7377
 Fuse-Pad-Pad,F5,hellen-one-common:PAD-1206-PAD,C182446
 Fuse-Pad-Pad,F6,hellen-one-common:PAD-1206-PAD,C182446
+Fuse-Pad-Pad,F7,hellen-one-common:PAD-1206-PAD,C182446
+Fuse-Pad-Pad,F8,hellen-one-common:PAD-1206-PAD,C182446
+Fuse-Pad-Pad,F9,hellen-one-common:PAD-1206-PAD,C182446
