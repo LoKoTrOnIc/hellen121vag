@@ -1343,6 +1343,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 162.56 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "638cc39b-0267-4d59-8458-40f566a5aed9")
 		)
@@ -1434,6 +1443,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 102.87 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f5d3c55-b8c8-43ee-9e1d-c4c3f1d021e9")
 		)
@@ -1504,6 +1522,15 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 172.72 73.66 0)
 			(effects
 				(font
@@ -1722,6 +1749,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ea7e353-e3d9-432c-829e-f475ddab4b48")
 		)
@@ -1866,6 +1902,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 138.43 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "971d64c9-8cbb-4fb6-ae34-cc4e1adf3c54")
 		)
@@ -1936,6 +1981,15 @@
 			)
 		)
 		(property "LCSC" "C57112"
+			(at 132.08 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 132.08 101.6 0)
 			(effects
 				(font
@@ -2155,6 +2209,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 115.57 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0df34285-fa63-4d0c-a63a-e64454fc7d0e")
 		)
@@ -2236,6 +2299,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 147.32 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8c2c2cb-cb43-4984-a7be-564ac2332949")
 		)
@@ -2305,6 +2377,15 @@
 		)
 		(property "LCSC" "C97853"
 			(at 102.87 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
+			(at 102.87 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

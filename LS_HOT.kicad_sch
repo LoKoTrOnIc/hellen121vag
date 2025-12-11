@@ -653,6 +653,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 189.23 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3810c8c7-7308-4dd6-bed0-955ea27d5843")
 		)
@@ -722,6 +731,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 189.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 189.23 80.01 0)
 			(effects
 				(font
@@ -938,6 +956,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 189.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "011dfba1-db06-4df6-84f9-ca595ac039b5")
 		)
@@ -1007,6 +1034,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 189.23 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 189.23 74.93 0)
 			(effects
 				(font
@@ -1152,6 +1188,15 @@
 		)
 		(property "LCSC" "C377942"
 			(at 156.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
+			(at 167.64 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)

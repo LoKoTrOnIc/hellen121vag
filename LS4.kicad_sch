@@ -959,6 +959,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 170.18 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d13acd03-ed87-48ec-8b76-bbd509c98582")
 		)
@@ -1028,6 +1037,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 168.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 168.91 69.85 0)
 			(effects
 				(font
@@ -1106,6 +1124,15 @@
 		)
 		(property "LCSC" "C377942"
 			(at 139.7 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
+			(at 151.13 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1274,6 +1301,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 176.53 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6dd79ba7-8b8c-4088-ae77-94eb359b179f")
 		)
@@ -1408,6 +1444,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 168.91 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 168.91 74.93 0)
 			(effects
 				(font
@@ -1690,6 +1735,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 153.67 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0eccb361-a217-493a-b46f-9a6ff7463ff3")
 		)
@@ -1785,6 +1839,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 179.07 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f3acd64-a1ae-4a63-9861-25ae94db55aa")
 		)
@@ -1854,6 +1917,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 170.18 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 170.18 74.93 0)
 			(effects
 				(font
@@ -1939,6 +2011,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 176.53 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e21e2ca-4846-4cc8-b78f-d2c360a8ba78")
 		)
@@ -2007,6 +2088,15 @@
 			)
 		)
 		(property "LCSC" "C23162"
+			(at 179.07 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 179.07 106.68 0)
 			(effects
 				(font

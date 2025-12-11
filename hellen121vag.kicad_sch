@@ -23081,6 +23081,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 27.94 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a45d1c3-d03e-4cdd-a7f5-25b64199e289")
 		)
@@ -23497,6 +23506,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 27.94 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 27.94 356.87 0)
 			(effects
 				(font
@@ -23995,6 +24013,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 214.63 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "W4"
 			(uuid "0be52e97-b95b-483c-9fc9-e7f394cd0021")
 		)
@@ -24105,6 +24132,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 250.19 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d061ac88-61ab-42f1-ab93-9b0baac21d15")
 		)
@@ -24190,6 +24226,15 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 180.34 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ba53c9cc-606f-47cb-9931-b3953b20ddb5")
 		)
@@ -24250,6 +24295,15 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
+			(at 414.02 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 414.02 194.31 0)
 			(effects
 				(font
@@ -24326,6 +24380,15 @@
 			)
 		)
 		(property "LCSC" "C4216"
+			(at 187.96 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 187.96 166.37 0)
 			(effects
 				(font
@@ -24538,6 +24601,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 405.13 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "633e595d-bdf6-4fe7-921b-ec56936e0151")
 		)
@@ -24617,6 +24689,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 304.8 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a2f2c3a-90d8-488e-b102-e0b91471d5d7")
 		)
@@ -24677,6 +24758,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 208.28 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 208.28 234.95 0)
 			(effects
 				(font
@@ -24768,6 +24858,15 @@
 			)
 		)
 		(property "LCSC" "C17414"
+			(at 328.93 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 328.93 309.88 0)
 			(effects
 				(font
@@ -24917,6 +25016,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 203.2 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a584b396-aed2-4432-9ed6-874293ca9cbb")
 		)
@@ -24985,6 +25093,15 @@
 			)
 		)
 		(property "LCSC" "C23212"
+			(at 187.96 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 187.96 176.53 0)
 			(effects
 				(font
@@ -25257,6 +25374,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 359.41 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "E1"
 			(uuid "8bb456da-3899-421d-8002-f3e27455f5b4")
 		)
@@ -25340,6 +25466,15 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 304.8 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 304.8 309.88 0)
 			(effects
 				(font
@@ -25485,6 +25620,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 359.41 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "342c2fdd-4d45-4ce2-92b9-fcbbb634b15f")
 		)
@@ -25554,6 +25698,15 @@
 			)
 		)
 		(property "Description" "Hellen-One Power_12and5V Module"
+			(at 204.47 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 204.47 321.31 0)
 			(effects
 				(font
@@ -25731,6 +25884,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 181.61 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab2cddab-45b1-47a2-ae21-67c8f4722b89")
 		)
@@ -25882,6 +26044,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "comentario" ""
+			(at 361.95 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26105,6 +26276,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 196.85 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f2f33bdf-11f1-4a7c-8055-7dc5001268b1")
 		)
@@ -26312,6 +26492,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 328.93 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "045e0918-cc24-460c-896d-46239c9d434f")
 		)
@@ -26446,6 +26635,15 @@
 			)
 		)
 		(property "LCSC" "C8598"
+			(at 213.36 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 213.36 179.07 0)
 			(effects
 				(font
@@ -26793,6 +26991,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 328.93 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e2b52da-6214-4f59-89fd-db333b698071")
 		)
@@ -26985,6 +27192,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 205.74 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 205.74 285.75 0)
 			(effects
 				(font
@@ -27326,6 +27542,15 @@
 			)
 		)
 		(property "Description" "Smart High-Side Power Switch, PROFET, Single, 10mOhm, 8A, 38V, TO252-5"
+			(at 410.21 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 410.21 209.55 0)
 			(effects
 				(font
@@ -27739,6 +27964,15 @@
 			)
 		)
 		(property "LCSC" "C21189"
+			(at 256.54 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 256.54 295.91 0)
 			(effects
 				(font
@@ -28277,6 +28511,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 223.52 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "E1"
 			(uuid "16fd1016-7a3d-4ca5-80e7-bfb7c79d7fb6")
 		)
@@ -28404,6 +28647,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 208.28 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "E1"
 			(uuid "f1975149-44b5-4ab5-8066-cccdb404f3e2")
 		)
@@ -28487,6 +28739,15 @@
 			)
 		)
 		(property "LCSC" "C8598"
+			(at 213.36 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 213.36 163.83 0)
 			(effects
 				(font
@@ -28629,6 +28890,15 @@
 			)
 		)
 		(property "LCSC" "C21189"
+			(at 388.62 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 388.62 227.33 0)
 			(effects
 				(font
@@ -28918,6 +29188,15 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 274.32 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "885d5108-92d2-4180-ab1e-6e967c6d8d80")
 		)
@@ -28986,6 +29265,15 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 304.8 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 304.8 320.04 0)
 			(effects
 				(font
@@ -29269,6 +29557,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 421.64 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb722e34-a165-4356-99bc-d6a1e0f6ac52")
 		)
@@ -29500,6 +29797,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
+			(at 303.53 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29893,6 +30199,15 @@
 				(hide yes)
 			)
 		)
+		(property "comentario" ""
+			(at 213.36 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "583daf60-e35d-4963-95c9-c8a89a60c807")
 		)
@@ -30223,6 +30538,15 @@
 			)
 		)
 		(property "LCSC" "C8598"
+			(at 213.36 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
 			(at 213.36 173.99 0)
 			(effects
 				(font
