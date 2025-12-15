@@ -627,7 +627,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../Program Files/KiCad/8.0/",
       "plot": "gerber/",
       "pos_files": "gerber/",
       "specctra_dsn": "",
