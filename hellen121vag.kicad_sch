@@ -7322,6 +7322,317 @@
 				)
 			)
 		)
+		(symbol "motor-driver:Module-motor-driver-0.1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "M"
+				(at 1.27 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Module-motor-driver-0.1"
+				(at 20.32 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "hellen-one-motor-driver-0.1:motor-driver"
+				(at 25.4 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Module-motor-driver-0.1_0_1"
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 8.89 -10.16) (xy 8.89 -12.7) (xy 7.62 -12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Module-motor-driver-0.1_1_0"
+				(rectangle
+					(start 0 0)
+					(end 33.02 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 -20.32 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Module-motor-driver-0.1_1_1"
+				(pin passive line
+					(at 38.1 -12.7 180)
+					(length 5.08)
+					(name "MOSI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "N1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 5.08)
+					(name "12V_IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "N2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -12.7 0)
+					(length 5.08)
+					(name "12V_IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 5.08)
+					(name "OUT-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 5.08)
+					(name "OUT+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -2.54 180)
+					(length 5.08)
+					(name "DIS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -5.08 180)
+					(length 5.08)
+					(name "PWM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -15.24 180)
+					(length 5.08)
+					(name "SCLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -7.62 180)
+					(length 5.08)
+					(name "DIR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -15.24 0)
+					(length 5.08)
+					(name "3V3_IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -20.32 180)
+					(length 5.08)
+					(name "MISO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -17.78 180)
+					(length 5.08)
+					(name "~CS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "W7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+12V"
 			(power)
 			(pin_numbers hide)
@@ -8580,6 +8891,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "74b9a419-6fd8-49b6-a4a1-74a7e37082b2")
+	)
+	(junction
+		(at 209.55 201.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "769d2f21-e8a2-4b1c-aa51-92570c88514f")
 	)
 	(junction
 		(at 205.74 163.83)
@@ -10143,7 +10460,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 199.39) (xy 209.55 204.47)
+			(xy 209.55 201.93) (xy 209.55 204.47)
 		)
 		(stroke
 			(width 0)
@@ -13232,6 +13549,16 @@
 			(type default)
 		)
 		(uuid "8dd7190c-a42d-4111-a0df-06485d105348")
+	)
+	(wire
+		(pts
+			(xy 209.55 199.39) (xy 209.55 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e440efa-0ca0-435e-bdcc-a0eba1407b83")
 	)
 	(wire
 		(pts
@@ -23629,6 +23956,115 @@
 			(project "hellen121vag"
 				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73"
 					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "motor-driver:Module-motor-driver-0.1")
+		(at 214.63 191.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "05399c2c-08f2-4640-a962-41ec3f9c91a7")
+		(property "Reference" "M8"
+			(at 231.648 217.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Module-motor-driver-0.1"
+			(at 232.41 220.472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "hellen-one-motor-driver-0.1:motor-driver"
+			(at 240.03 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 214.63 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comentario" ""
+			(at 214.63 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "W4"
+			(uuid "0be52e97-b95b-483c-9fc9-e7f394cd0021")
+		)
+		(pin "N2"
+			(uuid "11d5ac5f-0fa9-49aa-b672-642255824ebc")
+		)
+		(pin "N1"
+			(uuid "a127d747-d1d7-4bdf-b77f-8c8a906ed9ab")
+		)
+		(pin "G"
+			(uuid "2d916482-1c6b-49de-a892-ebb137103e2c")
+		)
+		(pin "S2"
+			(uuid "d402cb58-ace3-4c3f-a54f-e048d4fb2d64")
+		)
+		(pin "W2"
+			(uuid "92197e3e-97ee-499e-83bc-60d4625f9dfb")
+		)
+		(pin "W7"
+			(uuid "bbeb3543-aa00-4b6c-8d2a-cada9734e266")
+		)
+		(pin "S3"
+			(uuid "f1719dcd-b6f7-4487-a6e3-45aad982f848")
+		)
+		(pin "S1"
+			(uuid "0347c10d-34f5-4a23-a213-60322dcb27bc")
+		)
+		(pin "W6"
+			(uuid "20897f02-901a-4c53-b7f0-d560ff11d57b")
+		)
+		(pin "W1"
+			(uuid "85cb8c53-efa9-4f1d-bbbe-b8282af92242")
+		)
+		(pin "W5"
+			(uuid "76709b29-16d1-44bf-b90d-33c233554dc0")
+		)
+		(pin "W3"
+			(uuid "53e34828-dccc-4895-9ed1-da5341ccde3b")
+		)
+		(instances
+			(project ""
+				(path "/45c1f041-3b7c-4036-abe9-e26621c05a73"
+					(reference "M8")
 					(unit 1)
 				)
 			)
