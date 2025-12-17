@@ -70,6 +70,7 @@ Comment,Designator,Footprint,LCSC Part #
 "ISL9V3040D3ST","Q2","DPAK",""
 "ISL9V3040D3ST","Q1","DPAK",""
 "368255-2","P1","368255-2",""
+"Module:motor-driver/0.1","M8","motor-driver",""
 "Module:can/0.1","M7","can",""
 "Module:mega-mcu100/0.3","M6","mega-mcu100",""
 "Module:wbo/0.5","M5","wbo",""
