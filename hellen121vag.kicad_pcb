@@ -109,14 +109,14 @@
 			(usegerberextensions yes)
 			(usegerberattributes no)
 			(usegerberadvancedattributes yes)
-			(creategerberjobfile no)
+			(creategerberjobfile yes)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 6)
-			(plotframeref no)
+			(plotframeref yes)
 			(viasonmask no)
 			(mode 1)
-			(useauxorigin no)
+			(useauxorigin yes)
 			(hpglpennumber 1)
 			(hpglpenspeed 20)
 			(hpglpendiameter 15.000000)
@@ -128,7 +128,7 @@
 			(psnegative no)
 			(psa4output no)
 			(plotreference yes)
-			(plotvalue no)
+			(plotvalue yes)
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
@@ -423,6 +423,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d084053-88d4-4e58-bc7b-f9a7d36930b6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1934,6 +1947,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a81efb3-23a1-473c-aab8-6819af09e3eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5c1a3cb2-3bb5-4d37-a6b1-6ff2fc95de62")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -2061,6 +2087,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58e11d2f-8662-4cbc-b0be-4a49a40df728")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9b36dc0-f427-483c-a973-a89155d40ca1")
 			(effects
 				(font
 					(size 1 1)
@@ -2299,6 +2338,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "14e96e73-233b-40ca-801e-5f17f7b7df55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e6c3ed6-c9f8-4216-8121-59776504d91b")
 			(effects
 				(font
 					(size 1 1)
@@ -2725,6 +2777,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5629e59-6dc7-42eb-a519-56c8d536a215")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/720d8a93-bb7b-47f1-a122-1c9b4d74bff4")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -3134,6 +3199,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ee32891-3d01-4335-8d12-41ae36e99772")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/94d6a0cf-7cbc-4ccd-9a72-2dc7b6e59f6d")
 		(sheetname "EGT")
 		(sheetfile "egt.kicad_sch")
@@ -3247,6 +3325,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85c98e78-c407-41b7-9ab7-29bc73a1a11a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc92d97d-2f30-4511-b344-267f51297c8b")
 			(effects
 				(font
 					(size 1 1)
@@ -3567,6 +3658,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cb99f71-79a0-49b0-a8c6-010945ccdc75")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4494,6 +4598,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e57f805-aa78-49c0-8243-e85381f3a27d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/690abe34-dc16-439e-b535-a2d03e6c3f76")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -4856,6 +4973,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f551f99-24ff-4b48-b5c8-d0ed4c819a4e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5360,6 +5490,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27d37518-a235-4275-9cd1-4c8a81c4b957")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/20790f44-a592-4309-b35a-39e3584c577c")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -5769,6 +5912,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4065ca4a-6c81-4a7d-bb51-f35f9ae868ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/84978110-03c2-4015-aee4-ea8e34b4449e")
 		(sheetname "EGT")
 		(sheetfile "egt.kicad_sch")
@@ -5874,6 +6030,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6b03d1d-7c3e-4d3f-ac7c-cf816f642b63")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6368,6 +6537,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbdbb316-fe86-4e69-9704-18dded72319e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/5ccdec1d-9199-4c09-b6c5-58c2654973f7")
 		(sheetname "EGT")
 		(sheetfile "egt.kicad_sch")
@@ -6484,6 +6666,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "253fc918-7a5c-4902-8312-b49afc712ea3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "878f5a79-03e3-4510-b640-dc4b056dc449")
 			(effects
 				(font
 					(size 1 1)
@@ -6625,6 +6820,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90a19551-6236-4418-bbd6-7aa25a88c859")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/272dc093-b84b-469f-a1ff-0d7ee71659c1")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -6749,6 +6957,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b47256a3-006a-4bf7-95f6-ef32d7ea23bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6da15b77-62e4-4d8c-aa1e-ba586ca07f8e")
 			(effects
 				(font
 					(size 1 1)
@@ -7082,6 +7303,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4facff15-ea62-4aef-b457-c63b5f986659")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/562d0a03-8fea-4d92-b145-85ea8c944db8")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -7319,6 +7553,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7fc434f0-bacb-4e79-bf99-8ab28c2d1bd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a01f8a20-a16e-44fe-8a67-d93a7189f51a")
 			(effects
 				(font
 					(size 1 1)
@@ -7732,6 +7979,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2627c457-7b8b-401d-bf95-e664697b027a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0827eec6-1147-48ff-80f1-0f941b45a79f")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -8006,6 +8266,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76f9ec36-cd4a-4482-b487-346d6d20fd09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b20d07cc-d671-452e-a5a2-8f732b1e0721")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -8130,6 +8403,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b3ccba3c-7937-405b-b56c-e81bf48ca69f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b705fcbe-80fe-4a41-af47-2664274bebc6")
 			(effects
 				(font
 					(size 1 1)
@@ -8368,6 +8654,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b88b4c43-61ff-40f3-8536-9500b448c700")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/455af5ee-08d3-45cb-80c6-7a551d42155c")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -8582,6 +8881,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00273439-c514-4d55-935e-47b0c6bff3e9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8849,6 +9161,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74203a22-29bc-4fea-b829-a1d1f5a9579c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9207,6 +9532,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2505236-8b4a-4838-a6f8-6308e0df1b37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/aca03d16-f2f1-4af6-9e2b-22cf917b221e")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -9340,6 +9678,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "876f94ed-d29d-4204-b379-e2de51d2b765")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/cc243f0f-ba78-471d-84b4-c687616991b6")
 		(sheetname "EGT")
 		(sheetfile "egt.kicad_sch")
@@ -9453,6 +9804,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0e8c6891-043c-4026-a417-53df3664e3f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccd5415f-47cc-413b-b838-7073f5e58bb4")
 			(effects
 				(font
 					(size 1 1)
@@ -9851,6 +10215,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bd2eacc2-fee2-47b1-b1c2-9aca21af623a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20022355-45fa-481f-a6a3-e9d8f7157e1d")
 			(effects
 				(font
 					(size 1 1)
@@ -11613,6 +11990,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3a3aa03-ac9a-4d89-9aa7-ba6c52e5e538")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/37c68176-bc6d-4360-9788-c5c46985dc55/4c3cc570-1a73-4a74-9c31-0db473e331fd")
 		(sheetname "LS")
 		(sheetfile "LS4.kicad_sch")
@@ -11945,6 +12335,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "848489d9-8da8-496a-8290-164c7e524f3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "738d3e26-60a0-4e25-9a76-75689463c53f")
 			(effects
 				(font
 					(size 1 1)
@@ -12343,6 +12746,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2a3ed64-bcbe-4381-8368-9a3b4b9e8b5c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12904,6 +13320,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfeb4998-a797-42c2-8b8e-1ade3d785527")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2024c7ab-b875-4b47-9eeb-2a7266f6b214")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -13376,6 +13805,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "476e93dc-48bf-43da-9df0-067bf6245430")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14076,6 +14518,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2502cc07-be9d-411d-963b-316edd9eefc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0d97cf6c-8650-4b72-8bc5-d94273f231b7")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -14202,6 +14657,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bcd27549-034c-46bd-b9ab-36eae7b7eb7c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e62bd44-0f06-4cc6-87b3-17b252aad748")
 			(effects
 				(font
 					(size 1 1)
@@ -14355,6 +14823,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "983b9db9-2c72-41e6-9c76-9893ce786320")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b0cd482d-612f-441e-ad7f-745ae777f17f")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -14478,6 +14959,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "80dbbf36-7609-4f87-a68d-2a8d2812faf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35535f1b-9658-41f8-b0a1-b43309e640ee")
 			(effects
 				(font
 					(size 1 1)
@@ -14814,6 +15308,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d69799f4-63d1-4ddb-962a-99d3a5ccb565")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/dfbe03d5-f26b-42b1-8138-bc89552fd161")
 		(sheetname "EGT")
@@ -15042,6 +15549,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9735e4df-f6c2-4f9d-90fe-25d1eee04802")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/39d95f7b-af8e-4ca3-8fd1-128d4a9f6118")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -15176,6 +15696,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e75d9d09-8281-441c-b546-904410f7e4ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/66c03965-c49c-417a-918a-3302385bef46")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -15300,6 +15833,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23e33d56-d3fd-422b-927b-ca01352ec24b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc14627a-15ed-4ae6-9af8-214d12002fc2")
 			(effects
 				(font
 					(size 1 1)
@@ -15623,6 +16169,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "093c427d-7c83-4dd5-84e6-28bd30527f53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*SMA*")
 		(path "/0df2a110-d18d-4c4b-a3f8-b20ef60d00b5")
 		(sheetname "Raíz")
@@ -15923,6 +16482,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb723f4d-ce16-4512-91ff-dea19180009f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c0d258e-f019-4d06-a985-873affe90535")
 			(effects
 				(font
 					(size 1 1)
@@ -16298,6 +16870,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4eef3c9b-ffe8-419d-9b36-94e92cb3cb37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "696c0691-229b-49a6-9ef9-e5124c3d4de9")
 			(effects
 				(font
 					(size 1 1)
@@ -16714,6 +17299,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aec5f3e8-66df-4206-897a-a7a2955789b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6cde32b6-05f2-499d-9aff-ad44aab97055/672ccdf2-2649-48d1-94cc-713f8e6fe7c5")
 		(sheetname "EGT")
 		(sheetfile "egt.kicad_sch")
@@ -16821,6 +17419,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab8ee505-6f54-41c6-8969-36a08a2eb388")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17214,6 +17825,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6843cdf5-fd2c-4c43-a852-91e0bbf152d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8ddda05f-bce5-4ecd-a4f0-e2b2cfdb5ef1")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -17337,6 +17961,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f4680af-ebae-4d7c-a854-5fe549700a1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0aeb923-038a-4932-b9a5-8fe3a0e20de3")
 			(effects
 				(font
 					(size 1 1)
@@ -17670,6 +18307,19 @@
 				)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81523201-5231-407f-b132-5ec99791aead")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/be3c9b9b-2336-42ae-9924-6ff6970317cc")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -17989,6 +18639,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "14ba6255-60e4-4e3b-8232-863a5b9d20f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5978602d-3dbb-4e49-b589-91a1901163e7")
 			(effects
 				(font
 					(size 1 1)
@@ -18327,6 +18990,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0fcee8f-44fa-4fd1-a5a1-90e011d13b3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/7d645473-bf5e-4774-921d-757ae2738b0c")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -18456,6 +19133,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4b98ae8c-e42d-4cf2-983c-548c1eeecae9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f042efbb-6b4e-4488-9998-c3e4d5ba255e")
 			(effects
 				(font
 					(size 1 1)
@@ -18601,6 +19292,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "59de8c8f-280c-41f7-a348-ba0f39ac8a67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/37c68176-bc6d-4360-9788-c5c46985dc55/eee82ba6-9366-4fa7-aaa4-ff8bfde65f50")
 		(sheetname "LS")
 		(sheetfile "LS4.kicad_sch")
@@ -18730,6 +19435,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3bb058d2-b991-416e-b2d9-01223e05608b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a736f880-38bc-429f-b123-e151344b2afc")
 			(effects
 				(font
 					(size 1 1)
@@ -18875,6 +19594,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee0386c7-fcaf-4b7e-91af-95b680df41bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/3ad26cf1-1ddc-4892-b20e-c2228692a48c")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -19004,6 +19737,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7ebfe065-43b7-42d5-a85b-5aba33bc109f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4436da5c-a187-4fe0-b75b-face9bb6eded")
 			(effects
 				(font
 					(size 1 1)
@@ -19149,6 +19896,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a61ebae7-63a2-4e95-92bd-6d22bfc092a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/88ffb75e-2943-4b5b-88d6-54986a586e69")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -19278,6 +20039,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c38b7f18-a0ca-4ecf-b89e-1e253bc499f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "690d9c29-9e4c-4f1c-a0ee-43a9b9df8770")
 			(effects
 				(font
 					(size 1 1)
@@ -19423,6 +20198,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a87662b1-f287-4256-a977-96bd2782be65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/4ecc3d4b-8e64-49f8-b8a5-49e99d52e6ee")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -19552,6 +20341,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b2efe6e4-f40e-4266-aba8-e9870e5fd735")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "67bbf801-ad0c-4a9f-9258-f975b80dfd93")
 			(effects
 				(font
 					(size 1 1)
@@ -19697,6 +20500,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "26c27451-9428-46f9-affa-632ec80d1c54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/7e0994be-12ae-4434-b67b-dafacae47b22")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -19826,6 +20643,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "398be7a2-91ac-4247-ba86-1abf9b7b15f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6049a93d-6a69-4313-a2ad-57ab70f37f0a")
 			(effects
 				(font
 					(size 1 1)
@@ -19965,6 +20796,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1978bf7b-6a3f-4921-9f6c-b34008e31fff")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -20192,6 +21037,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "932c486e-752e-4eb2-9b41-2ad9d42cc3ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bdc55f5a-1abb-4701-b1a5-3e8a3596401f/2afb7fc4-2cf9-4596-9315-e4bc1b0d5edb")
 		(sheetname "LS HOT")
 		(sheetfile "LS_HOT.kicad_sch")
@@ -20321,6 +21180,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b868b7bb-b96b-4d6e-a1bb-f01a6dbf3f22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "37db2d7e-4938-4ff7-b014-d32fed68fb71")
 			(effects
 				(font
 					(size 1 1)
@@ -20466,6 +21339,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "58bfd31f-7390-4f0c-9db6-e948b5490539")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/517bc0d4-1a5f-4ded-8e92-8608b3a68628")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -20595,6 +21482,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "93e74c1b-1e61-4490-8f30-3bd4752891a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a09fa3e5-c89b-431c-8b41-8b47a12e4bd8")
 			(effects
 				(font
 					(size 1 1)
@@ -20734,6 +21635,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d0792349-e575-413c-9c82-1f2e61395b68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "71d4e2a7-b37f-4abe-a041-48943251af3e")
 			(effects
 				(font
 					(size 1 1)
@@ -20973,6 +21888,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "29c2354e-e6a1-4a7f-87ab-fcb4ea6e526c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/6efff736-d6eb-4cf8-975d-b5bcdb7a2b2e")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -21102,6 +22031,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cf391139-a3f8-4e19-b60d-fa9d8e945638")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "38f2cf74-b132-4f6d-946c-4719650437dd")
 			(effects
 				(font
 					(size 1 1)
@@ -21241,6 +22184,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "28001d00-ae2c-4faf-9e02-73bf30d6e2c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf0308bf-e29a-43f7-b775-25bda3c1ae18")
 			(effects
 				(font
 					(size 1 1)
@@ -21480,6 +22437,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1f1225b5-bdf6-4aa0-abe1-ba69d42ee6bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/37c68176-bc6d-4360-9788-c5c46985dc55/135ff710-9189-4d64-82f6-9d20d38ed7bc")
 		(sheetname "LS")
 		(sheetfile "LS4.kicad_sch")
@@ -21611,6 +22582,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a83e2bed-81de-425d-a4d5-c0d52caf78bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2956809-023f-4d57-be4c-5e1d8bab1f45")
 			(effects
 				(font
 					(size 1 1)
@@ -21849,6 +22834,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0c06b83a-85f5-48b6-a6c8-796f8d3962e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bdc55f5a-1abb-4701-b1a5-3e8a3596401f/687b3a19-6810-4841-9fea-54cb7d53079d")
 		(sheetname "LS HOT")
 		(sheetfile "LS_HOT.kicad_sch")
@@ -21978,6 +22977,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "453e585a-6505-4e78-8707-354de3341330")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5bca5333-acd3-4238-8fd3-cfbb3ac84f2a")
 			(effects
 				(font
 					(size 1 1)
@@ -22123,6 +23136,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "95463310-313a-4f03-8fa3-465f8e394cd6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/21af095a-1029-43cf-a7d9-a18c95a2fdd0")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -22252,6 +23279,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f190ff2c-b6a0-4688-87dc-40899fe8d1eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d22868f3-0109-4e20-b2aa-1b1149024ed5")
 			(effects
 				(font
 					(size 1 1)
@@ -22397,6 +23438,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e4f73874-a8c8-4160-82fe-e0ba738542ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/9408e237-b3ac-4035-8fc3-6e0e52b85182")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -22528,6 +23583,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "044d2422-be4d-49e7-8313-cc4220302e43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa6f2890-1d02-4fb9-8d4e-4c2aafddce4f")
 			(effects
 				(font
 					(size 1 1)
@@ -22765,6 +23834,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "02b9f21b-68a5-46b3-95c3-388a8d8f7e93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/c726e9a3-9aa1-434e-93ce-8524e85ea43c")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -22987,6 +24070,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66487bde-fd24-42cb-b7bb-2c4fe8eeb8ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/2dfab344-5419-4fb2-a7b7-c9444ff956ee")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -23116,6 +24213,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "40c96594-38c9-4ed5-a89f-7f1887be7bf0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f46756b4-5f55-4a54-bc79-c0f8661b8690")
 			(effects
 				(font
 					(size 1 1)
@@ -23255,6 +24366,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4a839e7b-634a-4fd4-9a61-ad8d237ace07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "03f9857d-d622-4b82-a58a-b045de327b55")
 			(effects
 				(font
 					(size 1 1)
@@ -23493,6 +24618,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2d715d65-1644-4241-81c0-9a6095b50dac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/fedd46ee-9dba-4418-b931-e0c4ea44d7bc")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -23624,6 +24763,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ca48478e-8806-4d4d-bf15-81eee4daef80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2f6b9b1-b32b-419b-b39a-c7e8d40ee236")
 			(effects
 				(font
 					(size 1 1)
@@ -23863,6 +25016,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d060af54-233e-45ab-8327-ab9127c33b6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/baf620ce-3012-40c9-85ee-d77d3a571537")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -23992,6 +25159,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8478f678-c5fe-491e-a12d-a7f14db71c44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5ea007f4-a8a8-470c-8511-afcd8797a504")
 			(effects
 				(font
 					(size 1 1)
@@ -24131,6 +25312,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a0d606b9-909a-45a9-a511-475d6ba2dfef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c365e03-bd1d-4d53-9a8e-f8a52278e128")
 			(effects
 				(font
 					(size 1 1)
@@ -24370,6 +25565,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eade4ab3-6524-47ec-ba85-935463cca057")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/159c1500-5128-48ec-924f-ebe2c825568c")
 		(sheetname "Raíz")
 		(sheetfile "hellen121vag.kicad_sch")
@@ -24501,6 +25710,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "40aada1e-96d8-464a-8ad8-1139bc063517")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "77bfec3d-bf99-48e2-b15a-7871c148c6e5")
 			(effects
 				(font
 					(size 1 1)
@@ -24740,6 +25963,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5456182d-8c5c-4404-8395-a027bc88ceb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/37c68176-bc6d-4360-9788-c5c46985dc55/117b0656-a667-4fa7-a501-1650386b90be")
 		(sheetname "LS")
 		(sheetfile "LS4.kicad_sch")
@@ -24869,6 +26106,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0e526d54-c6fc-40c9-b116-7b664164da48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "064adffc-1177-40d0-9dbe-2138becbef11")
 			(effects
 				(font
 					(size 1 1)
@@ -25014,6 +26265,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb4178d7-a4ad-4c51-93f5-b42cc2cb4c5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/6632a63f-e34c-4040-aba9-22281bfc4686")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -25145,6 +26410,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd9add47-a5b1-4652-a3db-3c5bb15b68cc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25372,6 +26651,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c6c30f6e-228b-4440-aa90-0b43aa74beb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/a84da553-6b6b-452d-8fad-9ece84776bb6")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -25503,6 +26796,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "858e2c1c-0482-424b-af0a-20b6f83b4149")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25724,6 +27031,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "53b6bf67-0c5a-4d12-84a2-da8ebec1ed6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf1ec9bd-98f5-40e4-917c-46c923305eba")
 			(effects
 				(font
 					(size 1 1)
@@ -25964,6 +27285,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7695080d-f8f3-4ee7-9db7-45d15747e958")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/e0322e34-0aea-460a-9628-ad6558630e99")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -26188,6 +27523,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fd99c57d-2cdc-4688-ac6b-5aebc9b8225c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a0d8d29a-ad59-4117-8e72-76b68490973d")
 			(effects
 				(font
 					(size 1 1)
@@ -26429,6 +27778,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3dc8c4ba-9b96-4535-95d9-f640f564a6ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf/b9b6fc36-d505-4220-8265-35e0b6b92ae1")
 		(sheetname "Ignition")
 		(sheetfile "IGN6.kicad_sch")
@@ -26659,6 +28022,20 @@
 				(justify mirror)
 			)
 		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb1bf887-eebc-40b8-b110-9968c607feec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5bf5a5f3-cb81-43b4-ad19-7826a949969c/7fbfba16-ed28-47e9-8e91-dc5c597da2a8")
 		(sheetname "Injector")
 		(sheetfile "INJ6.kicad_sch")
@@ -26788,6 +28165,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d2da36bb-a35e-41ad-aea8-17520b23ee74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "comentario" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5822edb5-1a1e-4276-8281-d2b862f2545c")
 			(effects
 				(font
 					(size 1 1)
